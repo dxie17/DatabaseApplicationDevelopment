@@ -1,0 +1,7 @@
+﻿  DatabaseApplicationDevelopment.cpp
+D:\myProject\DatabaseApplicationDevelopment\DatabaseApplicationDevelopment.cpp(200,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DatabaseApplicationDevelopment.vcxproj -> D:\myProject\DatabaseApplicationDevelopment\x64\Release\DatabaseApplicationDevelopment.exe
